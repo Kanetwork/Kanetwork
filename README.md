@@ -94,14 +94,6 @@ Linux • Wireshark • Nmap • Python • Git • VirtualBox • SIEM (Planned
 
 ---
 
-## 📖 Cyber Security Learning Journal
-
-I maintain a structured learning journal documenting labs, reflections, and certification progress.
-
-👉 Coming Soon
-
----
-
 ## 📈 Current Homelab Environment
 
 - Kali Linux Attack Box  
@@ -109,12 +101,6 @@ I maintain a structured learning journal documenting labs, reflections, and cert
 - Administrative Workstation  
 - Virtual Network Segmentation  
 - Security Monitoring (Planned Expansion)
-
----
-
-## 🌐 Professional Development
-
-I will be sharing learning progress and engaging with the cyber security community on LinkedIn as my journey progresses.
 
 ---
 
@@ -131,6 +117,3 @@ Develop strong investigative and technical security skills to transition into a 
 - Cyber security discussions  
 - Professional advice  
 
----
-
-⭐ Documenting my journey as I learn and grow in cyber security.
