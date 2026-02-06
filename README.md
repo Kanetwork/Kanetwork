@@ -29,7 +29,7 @@ I am documenting my cybersecurity learning journey publicly to demonstrate hands
 
 ## 🧪 Cyber Security Portfolio
 
-### 🏗️ Homelab Security Architecture
+### 🏗️ [Homelab Security Architecture](https://github.com/Kanetwork/homelab-security-architecture)
 Designing and securing virtual lab environments to simulate attacks, monitor traffic, and practice detection techniques.
 
 👉 Coming Soon
