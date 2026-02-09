@@ -21,12 +21,20 @@ I am documenting my cybersecurity learning journey publicly to demonstrate hands
 - Python Security Automation  
 - Security Investigation Methodology  
 
+## 📘 Join me on my Learning
+### 📘[Learning-journal](https://github.com/Kanetwork/Learning-Journal)
+Documentation of what i have learned as i aspire to be a Hybrid Cloud & Network Security Engineer.
+
+Current focus is on my Network+
+
 ## 🧪 Cyber Security Portfolio
 
 ### 🏗️ [Homelab Security Architecture](https://github.com/Kanetwork/homelab-security-architecture)
 Designing and securing virtual lab environments to simulate attacks, monitor traffic, and practice detection techniques.
 
 👉 [Private Storage Lab(Nextcloud-docker)](https://github.com/Kanetwork/homelab-security-architecture/tree/main/Server-builds/Private-Storage-Lab(Nextcloud-Docker))
+    
+Built a self-hosted "Private Cloud" storage solution on an Ubuntu Server environment. The goal was to replace third-party cloud providers with a secure, locally-owned alternative for family media and document storage
 
 ### 🌐 Network Security Labs
 Packet capture analysis, firewall configuration, network segmentation, and VPN security projects.
